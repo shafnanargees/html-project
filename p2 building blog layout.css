@@ -1,0 +1,64 @@
+header
+{background-color: blueviolet;
+    text-align: center;
+    color: white;
+    padding: 1 em 0;
+   
+}
+
+header nav ul{
+    list-style: none;
+    padding: 0;
+    font-size: xx-large;
+}
+
+header nav ul li{
+    display: inline;
+    margin: 0 15px;
+    font-size: xx-large;
+}
+
+header nav ul li a{
+    color: white;
+    text-decoration: none;
+    
+}
+
+
+main{ 
+    margin: 20px;
+    background-color:white;
+    color: black;
+    padding: 20px;
+    border-radius: 8px;
+    font-size: x-large;
+    box-shadow: 0 4px 8px rgba(red, green, blue, alpha);
+}
+
+
+article{
+    margin-bottom: 40px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #eee;
+}
+
+
+article h2 {
+    text-align: left;
+
+}
+
+article p {
+    text-align: left;
+    color: #666;
+}
+
+footer{
+    background-color: blueviolet;
+    text-align: center;
+    color: white;
+    padding: 1 em 0;
+}
+
+
+
