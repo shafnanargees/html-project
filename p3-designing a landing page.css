@@ -1,0 +1,28 @@
+header {
+    background-image:url(https://th.bing.com/th/id/OIP.UISPOFwUU9Ry0TAl4Ktg0AHaEo?rs=1&pid=ImgDetMain )
+
+
+}
+header h1 { 
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+    
+}
+
+header p{ color: white;
+    font-size: larger;
+text-align: center;
+}
+
+header button{
+    background-color: #007bff;
+    text-align: center;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    
+
+}
+
