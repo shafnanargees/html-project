@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    font:xx-large;
+}
+
+header{
+    text-align: center;
+    background-color: antiquewhite;
+    
+}
+p{
+    font-size: xx-large;
+}
+section{
+    background-color: antiquewhite;
+}
+.project{
+    width: 200px;
+    height: 200px;
+    border: 1px solid #ccc;
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
+    line-height: 200px;
+
+}
+footer{
+    background-color: antiquewhite;
+    text-align: center;
+}
