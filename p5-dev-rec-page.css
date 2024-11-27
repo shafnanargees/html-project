@@ -1,0 +1,45 @@
+header{
+    background-color: lightseagreen;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    font-size: medium;
+    font-style: normal;
+}
+
+p{
+    background-color: white;
+    margin:10px ;
+   text-align: justify;
+   padding: 10px;
+}
+
+main{
+    background-color: antiquewhite;
+}
+
+.ingredients ,.instructions{
+    background-color: white;
+    padding: 15 px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 5px rgb(0,0,0,0.1);
+    border-radius: 8px;
+}
+
+footer{
+    background-color: lightseagreen;
+   padding: 5px;
+  
+}
+footer p{
+    text-align: center;
+    color:black;
+}
+
+.ingredients h2,.instructions h2{
+    color: deeppink;
+}
+
+ul ol {
+    margin-left: 20px;
+}
