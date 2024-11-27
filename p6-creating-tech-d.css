@@ -1,0 +1,29 @@
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: x-small;
+  padding: 20px;
+}
+nav{
+    background-color: darkslategray;
+    color: white;
+ 
+   
+    text-align: left;
+    font-style: normal;
+    padding: 15px;
+    overflow: auto;
+    flex-shrink: 0;
+   
+}
+
+li{list-style:none ;
+padding: 0;
+}
+
+section{
+    margin-bottom: 25px;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 20px;
+}
